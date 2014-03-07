@@ -1,0 +1,4 @@
+Tricks
+======
+
+Small hacks .....
