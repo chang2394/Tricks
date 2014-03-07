@@ -1,0 +1,11 @@
+
+USE THIS IN DEFAULT CODE OF CODEBLOCKS EDITOR ....
+/*
+	Name: 
+	Copyright: 
+	Author: StackOverflow1453
+	Date: $(NOW_L) $(WEEKDAY) 
+	Description: 
+*/
+
+Link for some more variables :- http://wiki.codeblocks.org/index.php?title=Variable_expansion
