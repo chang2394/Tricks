@@ -4,7 +4,7 @@ USE THIS IN DEFAULT CODE OF CODEBLOCKS EDITOR ....
 	Copyright: 
 	Author: StackOverflow1453
 	Date: $(NOW_L) $(WEEKDAY) 
-	Description: 
+	Description: $(ACTIVE_EDITOR_FILENAME)
 */
 
 Link for some more variables :- http://wiki.codeblocks.org/index.php?title=Variable_expansion
